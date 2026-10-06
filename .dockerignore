@@ -1,0 +1,10 @@
+.venv
+.git
+**/*.pyc
+.DS_Store
+database.db
+.env
+**/__pycache__
+
+id_rsa
+id_ed25519
